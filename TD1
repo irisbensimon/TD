@@ -224,7 +224,7 @@ sudo chmod 777 .private_file
 cat .private_file
 ```
 
-### Exercise 4.3 : Change a file owner
+Exercise 4.3 : Change a file owner
 1. Change permissions of .private_file to read and write for all users, in
 normal user mode
 ```
@@ -240,7 +240,7 @@ normal user mode
 chmod 666 .private_file
 ```
 
-### Exercise 4.4 : Manage Packages (tools/functions)
+Exercise 4.4 : Manage Packages (tools/functions)
 1. Update your main package manager named apt
 ```
 sudo apt update
